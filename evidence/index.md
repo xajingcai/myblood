@@ -10,3 +10,8 @@
 ## 专题整理
 
 - [改善高血压：证据与适用边界（2026-11-02）](hypertension-options-2026-11-02.md)：减重、减钠、DASH、运动与睡眠；含来源访问限制。个体建议仅在本地private目录。
+
+- [高血压成因：机制导读](hypertension-causes-guide.md)：血流、肾脏、RAAS、体重、睡眠、遗传及病因排查。
+- [成因研究阅读清单](hypertension-causes-reading-list.md)：12项分层资料，含原始实验、队列、随机试验、GWAS与指南；逐项标注核对范围。
+
+- [高血压成因：有数据支持的研究结论](hypertension-causes-data.md)：6项研究的样本、效应、区间、设计和外推限制。
