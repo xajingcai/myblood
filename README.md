@@ -10,7 +10,7 @@
 5. 补齐资料后，按 [计划模板](plans/current.md) 制定适用于自己的方案。
 6. 按 [预测规则](predictions/README.md) 登记预测，再用后续数据检验。
 
-当前状态：个人资料未填写；无真实读数；未制定个体治疗方案；未生成降压预测。
+公开仓库只保存通用材料和模板；个人资料、实际计划、预约与检查结果保存在本地 private/。尚未生成经验证的个人降压预测。
 
 ## 导航
 - [智能体规则](AGENTS.md)
@@ -18,6 +18,7 @@
 - [每周复盘](reviews/template.md)
 - [预测登记模板](predictions/template.md)
 - [维护工作流](workflows/weekly-review.md)
+- [待跟进事项](follow-ups/README.md)
 
 ## 本地与 GitHub
 远端仓库：https://github.com/xajingcai/myblood 。本仓库不包含个人健康资料和真实读数。
