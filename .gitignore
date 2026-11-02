@@ -1,0 +1,8 @@
+private/*
+!private/.gitkeep
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+work/
